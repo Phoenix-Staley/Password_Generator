@@ -6,4 +6,4 @@
 
 ![website example](./Assets/Images/Website_Example.png)
 
-[Website link](https://phoenix-staley.github.io/Password_Generator/)
+[Website link](https://phoenix-staley.github.io/password-generator/)
